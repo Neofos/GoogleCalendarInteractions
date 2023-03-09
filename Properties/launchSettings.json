@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GoogleCalendarInteractions": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "KEY_PATH": "D:\\Programming\\Projects\\.NET\\GoogleCalendarInteractions\\client_secret_884051290714-ur7cg9b9r4v7c7cal984a6v3jkti3m0s.apps.googleusercontent.com.json"
+      }
+    }
+  }
+}
